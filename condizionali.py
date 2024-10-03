@@ -19,3 +19,15 @@ if x<0:
 else:
     print("il numero e' positivo")
 
+#if-elif-else
+amministratori = ['tomislav', 'tomo', 'massimo']
+utenti = ['modri', 'denis','dario'];
+username = input("Inserisci il tuo username: ")
+
+if username in amministratori:
+    print("Benvenuto", username, ", tu sei un amministratore!")
+elif username in utenti:
+    print("Benvenuto", username, ", tu sei un utente!")
+else:
+    print("Non sei registrato")
+
