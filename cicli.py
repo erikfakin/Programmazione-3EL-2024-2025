@@ -2,7 +2,7 @@ import random
 
 #I CICLI
 #Ci permettono di eseguire ripetutamente un blocco
-#di codice finche' una condizione e' seddisfatta.
+#di codice finche' una condizione e' soddisfatta.
 
 #while
 
