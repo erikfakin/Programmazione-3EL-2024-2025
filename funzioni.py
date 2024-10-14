@@ -39,4 +39,24 @@ def calcola_volume(a=1, b=1, c=1):
 #Se non passo i parametri, il loro valore sara' uguale a 1
 #come definito della funzione
 calcola_volume()
+
+
+#Una funzione ha un valore di ritorno.
+#Lo definiamo con "return".
+#Se non scriviamo "return" la funzione ritorna None
+def calcola_quadrato(numero):
+        return numero * numero
+
+numero = calcola_quadrato(4)
+print("Quattro al quadrato", numero)
+
+
+#Una funzione puo' ricevere un numero variabile di paramteri
+def somma(*numeri):
+    return sum(numeri)
+
+risultato = somma(2,4,5,8,9,3,1)
+print("La somma dei numeri e' uguale a", risultato)
+
+
  
