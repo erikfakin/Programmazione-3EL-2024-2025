@@ -44,3 +44,36 @@ calcolatrice()
 # Scrivi una funzione che chiede all'utente di inserire numeri.
 # Quando l'utente inserisce la parola "fine" voglio ritornare
 # la media aritmetica dei numeri.
+
+def media_aritmetica():
+    finito = False
+    totale = 0
+    quantita = 0
+    while finito == False:
+        utente = input("Inserisci un numero o la parola fine: ")
+        if utente == "fine":
+            finito = True
+        #isnumeric mi ritorna True se l'utente ha inserito un numero
+        elif utente.isnumeric():
+            totale = totale + int(utente)
+            quantita = quantita + 1
+
+    if quantita == 0:
+        return 0
+    else:
+        return totale / quantita
+
+media = media_aritmetica()
+print("Media aritmetica = ", media)
+
+
+
+
+
+
+
+
+
+
+
+
