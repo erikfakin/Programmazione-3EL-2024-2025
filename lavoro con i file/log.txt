@@ -1,0 +1,7 @@
+2025-02-12 13:55:40.966476 - programma aperto 
+2025-02-12 13:55:41.732098 - scelto l'opzione 1 - ora attuale 
+2025-02-12 13:55:42.232783 - scelto l'opzione 1 - ora attuale 
+2025-02-12 13:55:42.623419 - scelto l'opzione 2 - numero a caso 
+2025-02-12 13:55:43.217150 - scelto l'opzione 2 - numero a caso 
+2025-02-12 13:55:43.811144 - scelto l'opzione 3 - uscita dal programma 
+2025-02-12 13:55:43.811144 - programma chiuso 

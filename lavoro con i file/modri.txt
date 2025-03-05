@@ -1,0 +1,24 @@
+La mia auto preferita e' la Citroen C4 Picasso!Mi piace l'auto di colore rossa.
+ L'auto rossa mi piace!
+ L'auto rossa mi piace!
+Questa e' la riga numero 0
+Questa e' la riga numero 1
+Questa e' la riga numero 2
+Questa e' la riga numero 3
+Questa e' la riga numero 4
+Questa e' la riga numero 5
+Questa e' la riga numero 6
+Questa e' la riga numero 7
+Questa e' la riga numero 8
+Questa e' la riga numero 9
+ L'auto rossa mi piace!
+Questa e' la riga numero 0
+Questa e' la riga numero 1
+Questa e' la riga numero 2
+Questa e' la riga numero 3
+Questa e' la riga numero 4
+Questa e' la riga numero 5
+Questa e' la riga numero 6
+Questa e' la riga numero 7
+Questa e' la riga numero 8
+Questa e' la riga numero 9[1, 2, 3]
